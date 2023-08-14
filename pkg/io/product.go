@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/geniass/ebucks-dealz/pkg/scraper"
+	"github.com/dylangovender/ebucks-dealz/pkg/scraper"
 )
 
 type ProductWithPath struct {

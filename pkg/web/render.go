@@ -6,7 +6,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/geniass/ebucks-dealz/pkg/scraper"
+	"github.com/dylangovender/ebucks-dealz/pkg/scraper"
 )
 
 //go:embed templates

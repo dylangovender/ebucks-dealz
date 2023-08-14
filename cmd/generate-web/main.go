@@ -11,9 +11,9 @@ import (
 	"path/filepath"
 	"time"
 
-	dataio "github.com/geniass/ebucks-dealz/pkg/io"
-	"github.com/geniass/ebucks-dealz/pkg/scraper"
-	"github.com/geniass/ebucks-dealz/pkg/web"
+	dataio "github.com/dylangovender/ebucks-dealz/pkg/io"
+	"github.com/dylangovender/ebucks-dealz/pkg/scraper"
+	"github.com/dylangovender/ebucks-dealz/pkg/web"
 )
 
 func main() {
